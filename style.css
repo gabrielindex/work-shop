@@ -22,15 +22,14 @@ h1{
     margin: 0%;
 }
 .img{
-    width: 370px;
-    height: 224px;
-    margin-right: 520px;
-    margin-top: 165px;
+    width: 660px;
+    height: 350px;
+   margin-top: 20px;
 }
 .lista{
     margin-left: 20px;
     margin-right: 20px;
-    display: flex;
+    display:flex ;
 }
 .texto{
     margin-left: 20px;
